@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Package servicetest provides functionality to help write tests
-// for the Vanadium services.
-package servicetest
+// Package mocking provides functionality to help write tests
+// by providing a general purpose mocking framework. Copied
+// from Vanadium project per LICENSE.
+package mocking
